@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithLouie
-- 👀 I’m interested in Data science with R and Python
-- 🌱 I’m currently learning R and Python for data science
+- 👀 I’m interested in Data science with R, SQL and Python
+- 🌱 I’m currently learning R, SQL and Python for data science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me on email write.ethereal@gmail.com
 
