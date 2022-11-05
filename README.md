@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CodeWithLouie
-- 👀 I’m interested in Data science with R, SQL and Python
-- 🌱 I’m currently learning R, SQL and Python for data science
+- 👋 Hi, I’m Salisu, a data enthusiast based in Nigeria.
+- 👀 I’m currently enrolled in the Data science with R, SQL and Python course on datacamp.com
+- 🌱 I’ll be documenting my learning journey here.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me on email write.ethereal@gmail.com
 
