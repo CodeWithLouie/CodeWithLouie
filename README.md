@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Salisu, a data enthusiast based in Nigeria.
-- 👀 I’m currently enrolled in the Data science with R, SQL and Python course on datacamp.com
-- 🌱 I’ll be documenting my learning journey here.
-- 💞️ I’m looking to collaborate on data science projects
+- 😀 Here to build and contribute to the blockchain development universe
 - 📫 Reach me on email write.ethereal@gmail.com
 
 <!---
